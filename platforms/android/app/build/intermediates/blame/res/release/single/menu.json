@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jane/MyWorld/Work/node/weexPackTest/platforms/android/app/build/intermediates/res/merged/release/menu/main_scan.xml",
+        "source": "/Users/jane/MyWorld/Work/node/weexPackTest/platforms/android/app/src/main/res/menu/main_scan.xml"
+    },
+    {
+        "merged": "/Users/jane/MyWorld/Work/node/weexPackTest/platforms/android/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/jane/MyWorld/Work/node/weexPackTest/platforms/android/app/src/main/res/menu/main.xml"
+    }
+]
